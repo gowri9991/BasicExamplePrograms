@@ -57,6 +57,10 @@ void cal(int m, int n){
 		List<Boolean> boo=new ArrayList<>();
 		boo.add(true); boo.add(Boolean.parseBoolean("FalSe")); boo.add(Boolean.TRUE);
 		System.out.println(boo.size());
+		
+		
+		
+		
 		System.out.println(boo.get(1) instanceof Boolean);
 		//System.out.println(msg.substring(6,12));
 		/*Testing s1=new Testing("John");
